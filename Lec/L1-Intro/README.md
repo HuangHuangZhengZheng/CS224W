@@ -1,3 +1,9 @@
++++
+title = 'L1-Intro'
+date = 2025-01-26T14:55:57+08:00
+draft = false
+categories = ['Stanford-CS224W']
++++
 # CS224W: Intro to Graph Deep Learning
 
 ![alt text](image.png)

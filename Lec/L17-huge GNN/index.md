@@ -1,3 +1,9 @@
++++
+title = 'L17-huge GNN'
+date = 2025-01-29T12:19:30+08:00
+draft = false
+categories = ['Stanford-CS224W']
++++
 # Scaling up GNNs
 
 ![alt text](image.png)

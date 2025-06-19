@@ -1,3 +1,9 @@
++++
+title = 'L3-Node Embeddings'
+date = 2025-01-27T15:11:03+08:00
+draft = false
+categories = ['Stanford-CS224W']
++++
 # Node Embeddings
 https://web.stanford.edu/class/cs224w/slides/02-nodeemb.pdf
 

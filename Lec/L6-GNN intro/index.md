@@ -1,3 +1,9 @@
++++
+title = 'L6-GNN intro'
+date = 2025-01-27T16:39:56+08:00
+draft = false
+categories = ['Stanford-CS224W']
++++
 # GNN Intro
 
 ## shallow 

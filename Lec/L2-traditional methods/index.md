@@ -1,3 +1,9 @@
++++
+title = 'L2-traditional methods'
+date = 2025-01-27T12:22:01+08:00
+draft = false
+categories = ['Stanford-CS224W']
++++
 # Traditional Methods in Graph Learning
 
 ### node-level features

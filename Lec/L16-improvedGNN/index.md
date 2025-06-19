@@ -1,3 +1,9 @@
++++
+title = 'L16-improvedGNN'
+date = 2025-01-29T12:10:50+08:00
+draft = false
+categories = ['Stanford-CS224W']
++++
 # Improved GNN
 
 ### positionally-aware gnn

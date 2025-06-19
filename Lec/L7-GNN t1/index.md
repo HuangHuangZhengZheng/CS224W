@@ -1,3 +1,9 @@
++++
+title = 'L7-GNN t1'
+date = 2025-01-28T13:39:34+08:00
+draft = false
+categories = ['Stanford-CS224W']
++++
 # L7-GNN theory 1
 
 所有gnn的原型在这里
